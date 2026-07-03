@@ -1,0 +1,7 @@
+playwright>=1.61.0
+openpyxl>=3.1.5
+geopy>=2.4.1
+streamlit>=1.58.0
+pillow>=12.3.0
+pymupdf>=1.28.0
+openai>=2.44.0
